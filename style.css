@@ -8,3 +8,16 @@ body {
         padding: 20px;
         font-size: 32px;
         color:rgb(42,122,228);
+    }
+h1{
+    font-size: 40px;
+    p{
+        font-size: 20px;
+    }
+    height:200px;
+}
+.categiria-videos{
+    display:flex;
+    overflow-x:auto;
+    gap:10px;
+}
